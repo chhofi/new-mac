@@ -3,4 +3,5 @@
 brew install $(<Brewfile)
 cask install $(<Caskfile)
 pip3 install $(<Pipfile)
+mas install $(<Masfile)
 

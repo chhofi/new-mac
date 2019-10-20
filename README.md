@@ -16,7 +16,6 @@ The things I do when setting up a new Mac
 - [ ] Onedrive
 - [ ] Telegram
 - [ ] Davinci
-- [ ] Bear
 - [ ] Trello
 
 ## Finder

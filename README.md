@@ -39,7 +39,7 @@ The things I do when setting up a new Mac
 
 - [ ] Make emojis faster using `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
 - [ ] Increase keyboard speed
-- [ ] Enable automatic updates
+- [ ] Enable automatic updates
 - [ ] Disable all app dock bouncing `defaults write com.apple.dock no-bouncing -bool TRUE`
 - [ ] Disable Siri system wide, and remove Siri button from touch bar
 - [ ] [Disable all kinds of animations](https://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x)

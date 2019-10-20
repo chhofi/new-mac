@@ -8,7 +8,6 @@ The things I do when setting up a new Mac
 - [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile) 
 	-> brew install $(cat Brewfile) & brew cask install $(cat Caskfile)
 - [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
-- [ ] Transfer `.keys` files 
 
 ## Login
 

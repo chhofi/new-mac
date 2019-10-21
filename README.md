@@ -7,7 +7,7 @@ The things I do when setting up a new Mac
 - [ ] Install [homebrew](https://brew.sh)
 - [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile) 
 	-> brew install $(cat Brewfile) & brew cask install $(cat Caskfile)
-- [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
+- [ ] Setup Terminal
 - [ ] Filezilla
 
 ## Login

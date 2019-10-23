@@ -46,4 +46,6 @@ The things I do when setting up a new Mac
   - [ ] `defaults write -g NSAutomaticWindowAnimationsEnabled -bool false` (disable popover animations)
   - [ ] `defaults write -g NSWindowResizeTime -float 0.001`
 - [ ] Setup `/etc/hosts` using [someonewhocares.org/hosts](https://someonewhocares.org/hosts/)
-- [ ] Spectacle start on bootup
+- [ ] Spectacle + Chinch start on bootup
+- [ ] Mounty on startup
+

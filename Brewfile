@@ -7,4 +7,3 @@ docker
 python3
 mas
 cask
-mounty

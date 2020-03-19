@@ -9,6 +9,8 @@ The things I do when setting up a new Mac
 	-> brew install $(cat Brewfile) & brew cask install $(cat Caskfile)
 - [ ] Setup Terminal
 - [ ] Filezilla
+- [ ] [Davinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
+
 
 ## Login
 
@@ -28,11 +30,6 @@ The things I do when setting up a new Mac
 
 - [ ] Auto-hide dock
 - [ ] Remove all the  things
-
-## Install
-
-- [ ] [Apple watch screensaver](http://www.rasmusnielsen.dk/applewatch/)
-- [ ] [Davinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
 
 
 ## Other

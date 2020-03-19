@@ -20,6 +20,8 @@ The things I do when setting up a new Mac
 - [ ] Telegram
 - [ ] Davinci
 - [ ] Trello
+- [ ] Whatsapp
+
 
 ## Finder
 

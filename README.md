@@ -4,9 +4,7 @@ The things I do when setting up a new Mac
 
 ## Install
 
-- [ ] Install [homebrew](https://brew.sh)
-- [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile) 
-	-> brew install $(cat Brewfile) & brew cask install $(cat Caskfile)
+- [ ] Start Install Script
 - [ ] Setup Terminal
 - [ ] Filezilla
 - [ ] [Davinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
@@ -19,14 +17,22 @@ The things I do when setting up a new Mac
 - [ ] Onedrive
 - [ ] Telegram
 - [ ] Davinci
-- [ ] Trello
+- [ ] Zerotier
 - [ ] Whatsapp
+- [ ] Tripmode
+- [ ] NordVPN
+- [ ] Spark
+- [ ] Discord
+- [ ] HomeAssistant
 
 
-## Finder
+## Adobe
 
-- [ ] Show Path Bar
-- [ ] Remove labels and clean up Sidebar
+- [ ] PSD
+- [ ] IL
+- [ ] AE
+- [ ] Premiere
+
 
 ## Dock
 
@@ -39,12 +45,13 @@ The things I do when setting up a new Mac
 - [ ] Make emojis faster using `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
 - [ ] Increase keyboard speed
 - [ ] Enable automatic updates
-- [ ] Disable all app dock bouncing `defaults write com.apple.dock no-bouncing -bool TRUE`
 - [ ] Disable Siri system wide, and remove Siri button from touch bar
-- [ ] [Disable all kinds of animations](https://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x)
-  - [ ] `defaults write -g NSAutomaticWindowAnimationsEnabled -bool false` (disable popover animations)
-  - [ ] `defaults write -g NSWindowResizeTime -float 0.001`
+- [ ] `defaults write -g NSWindowResizeTime -float 0.001`
 - [ ] Setup `/etc/hosts` using [someonewhocares.org/hosts](https://someonewhocares.org/hosts/)
 - [ ] Spectacle + Chinch start on bootup
 - [ ] Mounty on startup
+- [ ] VM Ware kopieren in: chhofi/Virtuelle Maschinen
+- [ ] Google Analytics Opt Out aktivieren
+
+
 
